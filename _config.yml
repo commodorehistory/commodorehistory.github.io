@@ -1,1 +1,2 @@
-theme: jekyll-theme-cayman
+baseurl: ""
+domain_name: "yourblog-domain.com"
