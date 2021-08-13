@@ -1,1 +1,12 @@
 remote_theme: rosario/kasper
+
+name: Commodore History
+description: Commodore and Retro Computer History
+meta_description: "Website about the history of commodore computers!"
+
+markdown: kramdown
+highlighter: rouge
+logo: false
+paginate: 15
+google_analytics: "UA-XXXXXXXX-X"
+plugins: [jekyll-paginate]
