@@ -4,7 +4,7 @@ name: Commodore History
 description: Commodore and Retro Computer History
 meta_description: "Website about the history of commodore computers!"
 
-baseurl: /
+baseurl: ""
 domain_name: "https://commodorehistory.github.io/"
 
 markdown: kramdown
