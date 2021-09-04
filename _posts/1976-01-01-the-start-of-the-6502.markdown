@@ -3,6 +3,6 @@
 Some pictures of the KIM-1 Computer
 <img src="https://www.commodore.ca/wp-content/uploads/2018/11/white-commodore-mos-kim1.gif" alt="KIM-1 Computer" width="200"/>
 <img src="https://oldcomputers.net/pics/kim1.jpg" alt="KIM-1 Computer" width="200"/>
-<img src="https://vintagecomputer.ca/wp-content/uploads/2015/11/Kim-1-Blue-Rev-E-front.jpg" alt="KIM-1 Computer" width="200"/>
+<img src="https://vintagecomputer.ca/wp-content/uploads/2015/11/Kim-1-Blue-Rev-E-front.jpg" alt="KIM-1 Computer" width="50"/>
 <img src="https://oldcomputers.net/pics/kim1-b.jpg" alt="KIM-1 Computer" width="200"/>
 <img src="https://www.nightfallcrew.com/wp-content/uploads/2015/12/mos-kim-1-both-no-border-545.jpg" alt="KIM-1 Computer" width="200"/>
